@@ -1,0 +1,5 @@
+database:
+  name: expenses.db
+
+streamlit:
+  title: Personal Expense Tracker
